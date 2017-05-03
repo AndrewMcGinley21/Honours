@@ -1,5 +1,6 @@
 # Honours
 Repository for Honours Project
+
 Hi Xavier
 
 So Test3.py is the main program where the majority of the magic happens, dataManagement is only used for transforming the labels into one hot encoding 
